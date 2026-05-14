@@ -17,6 +17,7 @@ git status
 ```
 
 Shows:
+
 - modified files
 - staged files
 - current branch
