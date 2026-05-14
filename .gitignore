@@ -1,0 +1,29 @@
+# VS Code
+.vscode/*
+
+# Keep useful shared VS Code settings
+!.vscode/settings.json
+!.vscode/extensions.json
+
+# Linux temp files
+*~
+.nfs*
+
+# Logs
+*.log
+
+# Environment files
+.env
+
+# Python cache (future-proof)
+__pycache__/
+*.pyc
+
+# Terraform (future-proof)
+.terraform/
+*.tfstate
+*.tfstate.*
+
+# OS files
+.DS_Store
+Thumbs.db
