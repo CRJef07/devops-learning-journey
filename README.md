@@ -25,3 +25,25 @@ This repository documents my learning journey in:
 ## Labs
 
 Hands-on exercises, troubleshooting scenarios, and infrastructure experiments.
+
+## Repository Structure
+
+```text
+git/           -> Git commands, workflows, troubleshooting
+linux/         -> Linux administration notes
+networking/    -> Networking concepts and commands
+bash/          -> Bash scripting notes
+docker/        -> Docker labs and concepts
+kubernetes/    -> Kubernetes notes and labs
+aws/           -> AWS learning notes
+labs/          -> Hands-on exercises and projects
+```
+
+FORMAT:
+`# File Title`
+
+`## Main Topic`
+
+`### Command / Concept`
+
+`#### Notes / Warnings / Examples`
