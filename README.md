@@ -38,12 +38,3 @@ kubernetes/    -> Kubernetes notes and labs
 aws/           -> AWS learning notes
 labs/          -> Hands-on exercises and projects
 ```
-
-FORMAT:
-`# File Title`
-
-`## Main Topic`
-
-`### Command / Concept`
-
-`#### Notes / Warnings / Examples`
