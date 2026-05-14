@@ -12,13 +12,16 @@ This repository documents my learning journey in:
 - DevOps & SRE
 
 ## Current Focus
+
 - Linux Fundamentals
 - LFCS Preparation
 
 ## Goals
+
 - LFCS
 - CKA
 - Cloud/DevOps Engineering
 
 ## Labs
+
 Hands-on exercises, troubleshooting scenarios, and infrastructure experiments.
